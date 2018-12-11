@@ -10,3 +10,4 @@ Components:
 3 x 10k resistor <br>
 2 x breadboard <br>
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
